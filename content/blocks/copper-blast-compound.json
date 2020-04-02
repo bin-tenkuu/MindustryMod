@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-爆炸混合物",
+  "description": "铜法制爆炸混合物",
+  "size": 1,
+  "outputItem": {
+    "item": "blast-compound",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "items": {
+      "items": [{
+        "item": "copper",
+        "amount": 1
+      }]
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "crafting",
+  "research": "copper-pyratite"
+}

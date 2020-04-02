@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-废料",
+  "description": "铜法制废料",
+  "size": 1,
+  "outputItem": {
+    "item": "scrap",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "items": {
+      "items": [
+        "copper/1"
+      ]
+    }
+  },
+  "requirements": ["copper/50"],
+  "category": "crafting",
+  "research": "copper-graphite"
+}

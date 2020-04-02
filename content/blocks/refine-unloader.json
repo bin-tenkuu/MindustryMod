@@ -1,0 +1,15 @@
+{
+  "type": "Unloader",
+  "name": "精钢装载",
+  "description": "匹配精钢传输带的装载器",
+  "health": 240,
+  "speed": 0.20,
+  "size": 1,
+  "requirements": [
+    "thorium/4",
+    "plastanium/4",
+    "surge-alloy/2"
+  ],
+  "category": "effect",
+  "research": "armored-conveyor"
+}

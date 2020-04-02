@@ -1,0 +1,17 @@
+{
+  "type": "Vault",
+  "name": "精钢盒子",
+  "description": "高强度容器",
+  "health": 4000,
+  "size": 2,
+  "itemCapacity": 1000,
+  "requirements": [
+    "graphite/32",
+    "silicon/16",
+    "metaglass/8",
+    "plastanium/4",
+    "surge-alloy/2"
+  ],
+  "category": "effect",
+  "research": "vault"
+}

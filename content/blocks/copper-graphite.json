@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-石墨",
+  "description": "铜法制石墨",
+  "size": 1,
+  "outputItem": {
+    "item": "graphite",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "items": {
+      "items": [{
+        "item": "copper",
+        "amount": 1
+      }]
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "crafting",
+  "research": "scrap-copper"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "LiquidSource",
+  "name": "水-冷却液",
+  "description": "水法制冷",
+  "size": 1,
+  "outputLiquid": {
+    "liquid": "cryofluid",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 1
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "liquid",
+  "research": "void-liquids"
+}

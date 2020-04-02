@@ -1,0 +1,24 @@
+{
+  "type": "LiquidSource",
+  "name": "水-油",
+  "description": "水法制油",
+  "size": 1,
+  "outputLiquid": {
+    "liquid": "oil",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 1,
+      "optional": false
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "liquid",
+  "research": "void-liquids"
+}

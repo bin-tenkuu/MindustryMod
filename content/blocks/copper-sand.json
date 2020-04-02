@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-沙",
+  "description": "铜法制沙",
+  "size": 1,
+  "outputItem": {
+    "item": "sand",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "items": {
+      "items": [{
+        "item": "copper",
+        "amount": 1
+      }]
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "crafting",
+  "research": "scrap-copper"
+}

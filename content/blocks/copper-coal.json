@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-煤",
+  "description": "铜法制煤",
+  "size": 1,
+  "outputItem": {
+    "item": "coal",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "items": {
+      "items": [{
+        "item": "copper",
+        "amount": 1
+      }]
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "crafting",
+  "research": "copper-silicon"
+}

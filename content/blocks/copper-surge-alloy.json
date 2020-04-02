@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-巨浪合金",
+  "description": "铜法制巨浪合金",
+  "size": 1,
+  "outputItem": {
+    "item": "surge-alloy",
+    "amount": 1
+  },
+  "craftTime": 0,
+  "consumes": {
+    "items": {
+      "items": [{
+        "item": "copper",
+        "amount": 1
+      }]
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "crafting",
+  "research": "copper-metaglass"
+}
