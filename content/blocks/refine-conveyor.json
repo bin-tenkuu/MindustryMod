@@ -7,7 +7,7 @@
     "thorium/1"
   ],
   "category": "distribution",
-  "speed": 0.20,
+  "speed": 0.2,
   "health": 240,
   "research": "armored-conveyor"
 }

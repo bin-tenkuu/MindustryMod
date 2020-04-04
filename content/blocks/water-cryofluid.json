@@ -1,5 +1,5 @@
 {
-  "type": "LiquidSource",
+  "type": "GenericCrafter",
   "name": "水-冷却液",
   "description": "水法制冷",
   "size": 1,

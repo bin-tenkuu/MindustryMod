@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "废物-铜",
-  "description": "废物炼铜",
+  "description": "炼铜者得天下",
   "size": 1,
   "outputItem": {
     "item": "scrap",

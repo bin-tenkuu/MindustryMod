@@ -1,5 +1,5 @@
 {
-  "type": "LiquidSource",
+  "type": "GenericCrafter",
   "name": "水-油",
   "description": "水法制油",
   "size": 1,
@@ -11,8 +11,7 @@
   "consumes": {
     "liquid": {
       "liquid": "water",
-      "amount": 1,
-      "optional": false
+      "amount": 1
     }
   },
   "requirements": [{
