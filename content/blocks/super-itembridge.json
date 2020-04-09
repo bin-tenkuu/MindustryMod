@@ -1,0 +1,17 @@
+{
+  "type": "ExtendingItemBridge",
+  "name": "超级传送桥",
+  "description": "超级传送桥,量子传送",
+  "size": 1,
+  "tier": 5,
+  "speed": 100,
+  "range": 50,
+  "transportTime": 0,
+  "itemCapacity": 100,
+  "hasPower": false,
+  "requirements": [
+    "copper/100"
+  ],
+  "category": "distribution",
+  "research": "supper-drill"
+}

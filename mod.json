@@ -1,6 +1,12 @@
 {
   "name": "mymod",
+  "displayName": "[red]MyMod",
   "author": "bin",
-  "description": "铜是万能的(双关)\n整合了一个2/s矿机,一个超快的传送带和装载器,一个4k血仓库,一个600/s发电机 ",
-  "version": 1.1
+  "description": "
+  [red]铜是万能的(双关)[]
+  整合了一个4/s矿机
+  一个超快的传送带/桥和装载器
+  一个4k血/2k仓库
+  一个600/s发电机",
+  "version": 1.2
 }

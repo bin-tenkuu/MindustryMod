@@ -4,12 +4,12 @@
   "description": "微型超级钻头,深入地下开采",
   "size": 1,
   "tier": 5,
-  "drillTime": 30,
+  "drillTime": 24,
   "requirements": [
     "copper/20"
   ],
   "drawMineItem": true,
-  "liquidBoostIntensity": 3,
+  "liquidBoostIntensity": 2,
   "rotateSpeed": 1,
   "warmupSpeed": 0.01,
   "consumes": {

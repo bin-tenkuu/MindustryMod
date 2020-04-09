@@ -1,10 +1,10 @@
 {
   "type": "Vault",
   "name": "精钢盒子",
-  "description": "高强度容器",
+  "description": "高强度容器,内有乾坤",
   "health": 4000,
   "size": 2,
-  "itemCapacity": 1000,
+  "itemCapacity": 2000,
   "requirements": [
     "graphite/32",
     "silicon/16",

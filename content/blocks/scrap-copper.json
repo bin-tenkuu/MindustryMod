@@ -4,14 +4,14 @@
   "description": "炼铜者得天下",
   "size": 1,
   "outputItem": {
-    "item": "scrap",
+    "item": "copper",
     "amount": 1
   },
   "craftTime": 0,
   "consumes": {
     "items": {
       "items": [{
-        "item": "copper",
+        "item": "scrap",
         "amount": 1
       }]
     }
