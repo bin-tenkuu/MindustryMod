@@ -1,10 +1,10 @@
 {
   "type": "GenericCrafter",
-  "name": "铜-孢子荚",
-  "description": "铜法炼孢子荚",
+  "name": "铜-矿渣",
+  "description": "炼铜之后留下的废料,称为为矿渣",
   "size": 1,
-  "outputItem": {
-    "item": "spore-pod",
+  "outputLiquid": {
+    "liquid": "slag",
     "amount": 1
   },
   "craftTime": 0,
@@ -14,6 +14,10 @@
         "item": "copper",
         "amount": 1
       }]
+    },
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0
     }
   },
   "requirements": [{
@@ -21,5 +25,5 @@
     "amount": 50
   }],
   "category": "crafting",
-  "research": "copper-coal"
+  "research": "copper-oil"
 }

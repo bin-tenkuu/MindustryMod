@@ -5,7 +5,7 @@
   "size": 1,
   "tier": 5,
   "speed": 100,
-  "range": 50,
+  "range": 40,
   "transportTime": 0,
   "itemCapacity": 100,
   "hasPower": false,

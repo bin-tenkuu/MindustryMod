@@ -1,10 +1,10 @@
 {
   "type": "GenericCrafter",
-  "name": "铜-孢子荚",
-  "description": "铜法炼孢子荚",
+  "name": "铜-冷却液",
+  "description": "看到铜我浑身发抖,大热天的全身冒冷却液,手脚冰凉(雾)",
   "size": 1,
-  "outputItem": {
-    "item": "spore-pod",
+  "outputLiquid": {
+    "liquid": "cryofluid",
     "amount": 1
   },
   "craftTime": 0,
@@ -14,6 +14,10 @@
         "item": "copper",
         "amount": 1
       }]
+    },
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 0
     }
   },
   "requirements": [{
@@ -21,5 +25,5 @@
     "amount": 50
   }],
   "category": "crafting",
-  "research": "copper-coal"
+  "research": "copper-water"
 }

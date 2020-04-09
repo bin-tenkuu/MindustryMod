@@ -4,7 +4,7 @@
   "description": "微型超级钻头,深入地下开采",
   "size": 1,
   "tier": 5,
-  "drillTime": 15,
+  "drillTime": 24,
   "requirements": [
     "copper/20"
   ],
@@ -20,6 +20,7 @@
       "optional": true
     }
   },
+  "group":"drills",
   "category": "production",
   "research": "mechanical-drill"
 }

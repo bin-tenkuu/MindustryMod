@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "铜-废料",
-  "description": "铜法制废料",
+  "description": "炼铜炼得太多变成废物了",
   "size": 1,
   "outputItem": {
     "item": "scrap",
@@ -17,5 +17,5 @@
   },
   "requirements": ["copper/50"],
   "category": "crafting",
-  "research": "copper-graphite"
+  "research": "copper-spore-pod"
 }

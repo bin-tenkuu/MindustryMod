@@ -1,0 +1,51 @@
+{
+  "type": "Separator",
+  "name": "铜-所有",
+  "description": "铜就是你的一切,努力炼铜吧.\n[red]输入超出处理能力的铜能量时,会大幅降低处理速度,且输出也变成铜,此为铜的过量铜化特性",
+  "size": 5,
+  "consumes": {
+    "items": {
+      "items": [
+        "copper/1"
+      ]
+    }
+  },
+  "craftTime": 0,
+  "results": [
+    "graphite/1",
+    "lead/1",
+    "silicon/1",
+    "metaglass/1",
+    "phase-fabric/1",
+    "plastanium/1",
+    "surge-alloy/1",
+    "thorium/1",
+    "titanium/1"
+  ],
+  "requirements": [
+    "copper/1000",
+    "graphite/50",
+    "lead/50",
+    "silicon/50",
+    "metaglass/50",
+    "phase-fabric/50",
+    "plastanium/50",
+    "surge-alloy/50",
+    "thorium/50",
+    "titanium/50"
+  ],
+  "category": "crafting",
+  "research": "copper-phase-fabric",
+  "alwaysUnlocked": true,
+  "outlineColor": "FFD700",
+  "color": "FFD700",
+  "outlineIcon": true,
+  "floating": true,
+  "expanded": true,
+  "rotate": false,
+  "timers": 10,
+  "priority": "turret",
+  "idleSound": "machine",
+  "idleSoundVolume": 0.05,
+  "sync": true
+}

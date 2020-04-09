@@ -11,14 +11,14 @@
     "items": {
       "items": [
         "coal/1"
-      ],
-      "optional": true
+      ]
     }
   },
   "requirements": [
     "copper/50"
   ],
   "powerProduction": 10.0,
+  "group":"power",
   "category": "power",
   "research": "supper-drill"
 }

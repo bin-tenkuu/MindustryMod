@@ -1,0 +1,23 @@
+{
+  "type": "GenericCrafter",
+  "name": "铜-水",
+  "description": "对着铜,冲出来了(意义不明)",
+  "size": 1,
+  "outputLiquid": "water/1",
+  "craftTime": 1,
+  "consumes": {
+    "items": {
+      "items": ["copper/1"]
+    },
+    "liquid": {
+      "liquid": "water",
+      "amount": 0
+    }
+  },
+  "requirements": [{
+    "item": "copper",
+    "amount": 50
+  }],
+  "category": "crafting",
+  "research": "supper-drill"
+}
