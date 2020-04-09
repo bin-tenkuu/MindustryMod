@@ -5,13 +5,10 @@
   "size": 1,
   "outputLiquid": "water/1",
   "craftTime": 1,
+  "hasLiquids": true,
   "consumes": {
     "items": {
       "items": ["copper/1"]
-    },
-    "liquid": {
-      "liquid": "water",
-      "amount": 0
     }
   },
   "requirements": [{

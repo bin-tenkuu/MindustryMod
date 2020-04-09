@@ -7,6 +7,7 @@
     "liquid": "oil",
     "amount": 1
   },
+  "hasLiquids": true,
   "craftTime": 0,
   "consumes": {
     "items": {
@@ -14,10 +15,6 @@
         "item": "copper",
         "amount": 1
       }]
-    },
-    "liquid": {
-      "liquid": "oil",
-      "amount": 0
     }
   },
   "requirements": [{
