@@ -5,7 +5,7 @@
   "size": 1,
   "outputLiquid": {
     "liquid": "oil",
-    "amount": 1
+    "amount": 2
   },
   "hasLiquids": true,
   "craftTime": 0,

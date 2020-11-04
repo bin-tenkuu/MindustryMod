@@ -3,7 +3,7 @@
   "name": "铜-水",
   "description": "对着铜,冲出来了(意义不明)",
   "size": 1,
-  "outputLiquid": "water/1",
+  "outputLiquid": "water/2",
   "craftTime": 1,
   "hasLiquids": true,
   "consumes": {

@@ -3,10 +3,10 @@
   "name": "超级发电机",
   "description": "超级发电机,量子发电",
   "size": 1,
-  "tier": 5,
   "hasPower": true,
   "hasItems": true,
-  "itemDuration": 60,
+  "buildCostMultiplier": 0.5,
+  "itemDuration": 120,
   "consumes": {
     "items": {
       "items": [
@@ -15,10 +15,10 @@
     }
   },
   "requirements": [
-    "copper/50"
+    "copper/100"
   ],
   "powerProduction": 10.0,
-  "group":"power",
+  "group": "power",
   "category": "power",
   "research": "supper-drill"
 }

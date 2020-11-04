@@ -2,16 +2,16 @@
   "type": "Drill",
   "name": "超级钻头",
   "description": "微型超级钻头,深入地下开采",
-  "size": 1,
+  "size": 2,
   "tier": 5,
-  "drillTime": 24,
+  "drillTime": 1,
   "requirements": [
     "copper/20"
   ],
   "drawMineItem": true,
   "liquidBoostIntensity": 2,
   "rotateSpeed": 1,
-  "warmupSpeed": 0.01,
+  "warmupSpeed": 1,
   "consumes": {
     "liquid": {
       "liquid": "water",
@@ -20,7 +20,7 @@
       "optional": true
     }
   },
-  "group":"drills",
+  "group": "drills",
   "category": "production",
   "research": "mechanical-drill"
 }

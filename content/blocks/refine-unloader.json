@@ -3,7 +3,7 @@
   "name": "精钢装载",
   "description": "匹配精钢传输带的装载器,速度仅为其的66%",
   "health": 240,
-  "speed": 0.2,
+  "speed": 0.1,
   "size": 1,
   "requirements": [
     "thorium/4",

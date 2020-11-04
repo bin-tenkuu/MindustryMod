@@ -1,0 +1,13 @@
+{
+  "type": "CoreBlock",
+  "name": "超次元核心",
+  "description": "高强度核心,内有次元",
+  "size": 6,
+  "health": 20000,
+  "itemCapacity": 1000000,
+  "requirements": [
+    "copper/64"
+  ],
+  "category": "effect",
+  "research": "vault"
+}

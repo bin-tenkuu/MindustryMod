@@ -3,5 +3,6 @@
   "displayName": "[red]MyMod",
   "author": "bin",
   "description": "[red]铜[]是万能的(双关)",
-  "version": 1.4
+  "version": 1.4,
+  "minGameVersion": 105
 }
