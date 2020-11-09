@@ -41,5 +41,5 @@
   },
   "requirements": ["copper/50"],
   "category": "turret",
-  "research": "supper-drill"
+  "research": "mechanical-drill"
 }
